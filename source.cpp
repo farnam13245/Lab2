@@ -1,7 +1,6 @@
 // Author: Farnam Keshavarzian
 // Description: Hello World in C++
 //============================================================
-//test
 
 #include <iostream>
 using namespace std;
